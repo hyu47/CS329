@@ -1,18 +1,16 @@
 ## General
 
-* Class hours and location: MW 1:00 - 2:15, MSC W201.
-* Prerequisites: CS 171.
+* Class hours and location: TBA.
+* Prerequisites: none.
 
 ## Office Hours
-* [Jinho Choi](http://mathcs.emory.edu/~choi): TR 1 - 3pm, MSC E414.
-* Safoora Yousefi: TR 12 - 1pm, MSC N414.
-* Liqi Shu: by appointment.
+* [Jinho Choi](http://mathcs.emory.edu/~choi): TBA, MSC E414.
+* TA: TBA.
 
 ## Textbook
 
 * [Speech and Language Processing (2nd Edition)](http://www.cs.colorado.edu/~martin/slp2.html), Jurafsky and Martin.
 * [Introduction to Information Retrieval](http://informationretrieval.org), Manning, Raghavan, Schütze.
-* [Course in Machine Learning](http://ciml.info), Daumé III.
 
 ## Grading
 
