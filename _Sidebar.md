@@ -1,5 +1,5 @@
 #### Computational Linguistics
-* [Home](../README.md)
+* [Home](..)
 * [Syllabus](Syllabus)
 * [Schedule](Schedule)
 
