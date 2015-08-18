@@ -1,6 +1,6 @@
 #### Computational Linguistics
-* [Syllabus](Syllabus).
-* [Schedule](Schedule).
+* [Syllabus](Syllabus)
+* [Schedule](Schedule)
 
 ### Instructor ###
 * [Jinho D. Choi](http://mathcs.emory.edu/~choi)
