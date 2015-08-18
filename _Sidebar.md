@@ -1,4 +1,4 @@
-#### Artificial Intelligence
+#### Computational Linguistics
 * [Syllabus](Syllabus).
 * [Schedule](Schedule).
 
