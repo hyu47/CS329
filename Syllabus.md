@@ -1,13 +1,13 @@
-As the information age has revolutionized the way humans live, we are experiencing information overload where the amount of data we encounter grows beyond the human capacity. Although multimedia became a substantial part of big data, text is still the most primitive yet dominating medium. This interdisciplinary course teaches how to extract necessary information from text (Linguistics), make statistical analysis of the extracted information (QTM), and write computer programs to automate this process (Computer Science).
+As the information age has revolutionized the way humans live, we are experiencing information overload where the amount of data we encounter grows beyond the human capacity. Although multimedia became a substantial part of big data, text is still the most primitive yet dominating medium. This interdisciplinary course teaches how to extract necessary information from text (Linguistics), make statistical analysis of the extracted information (Quantitative Theory and Methods ), and write computer programs to automate this process (Computer Science).
 
 ## General
 
-* Class hours and location: TBA.
-* Prerequisites: none.
+* Class hours and location: MW 2:30 - 3:45pm, MSC W201.
+* Prerequisites: CS 171 (CS and LING students), QTM 220 (QTM students).
 
 ## Office Hours
-* [Jinho Choi](http://mathcs.emory.edu/~choi): TBA, MSC E414.
-* TA: TBA.
+* [Jinho Choi](http://mathcs.emory.edu/~choi): TR 2:30 - 4pm, MSC E414.
+* [Bonggun Shin](https://bgshin.wordpress.com) and [Henry Chen](http://yuhsinchen.info/): Fri 4 - 6pm, MSC E308A.
 
 ## Textbook
 
