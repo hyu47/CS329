@@ -1,4 +1,4 @@
-#### Computational Linguistics
+#### CS|LING|QTM 329 - Computational Linguistics
 * [Home](..)
 * [Syllabus](Syllabus)
 * [Schedule](Schedule)
