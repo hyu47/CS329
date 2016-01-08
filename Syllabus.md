@@ -1,3 +1,5 @@
+The objective of this course is to teach computational aspects of linguistics and their applications to students from various disciplines including but not limited to Computer Science, Linguistics, and Quantitative Theory and Methods. Computational linguistics is an interdisciplinary field of Computer Science and Linguistics concerned with the interactions between computers and human languages. As the use of Big Data becomes more important, the need of computational linguistics grows rapidly because it gives useful ways of analyzing and extracting information from texts in human languages with a minimum of human effort. Studying computational linguistics naturally involves the understanding of linguistic theories, computer programming, and statistics, which can bring students from different departments together for collaboration in the classroom and in group projects. We believe this course will benefit students who seek for academic research using Big Data as well as professors looking for interdisciplinary research.
+
 ## General
 
 * Class hours and location: TBA.
@@ -19,10 +21,6 @@
 * Midterm exam: 20%.
 * Final exam: 30%.
 * Your work is governed by the [Emory Honor Code](http://catalog.college.emory.edu/academic/policy/honor_code.html) and the [Math/CS SPCA](http://mathcs.emory.edu/spca.php). Honor code violations on any submission will be referred to the [Emory Honor Council](http://college.emory.edu/home/academic/honor-council/).
-
-## Objective
-
-The objective of this course is to teach computational aspects of linguistics and their applications to students from various disciplines including but not limited to Computer Science, Linguistics, and Quantitative Theory and Methods. Computational linguistics is an interdisciplinary field of Computer Science and Linguistics concerned with the interactions between computers and human languages. As the use of Big Data becomes more important, the need of computational linguistics grows rapidly because it gives useful ways of analyzing and extracting information from texts in human languages with a minimum of human effort. Studying computational linguistics naturally involves the understanding of linguistic theories, computer programming, and statistics, which can bring students from different departments together for collaboration in the classroom and in group projects. We believe this course will benefit students who seek for academic research using Big Data as well as professors looking for interdisciplinary research.
 
 ## Notes
 
