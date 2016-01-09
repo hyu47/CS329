@@ -1,0 +1,1 @@
+Copyright &copy; 2016 [Emory University](http://mathcs.emory.edu) - All Rights Reserved.
