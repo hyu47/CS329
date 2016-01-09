@@ -9,7 +9,7 @@
 * Download and install the community version of [PyCharm](https://www.jetbrains.com/pycharm/download/).
 * Launch PyCharm.
 * Create a project by choosing `File -> New Project`.
- * Create a directory location `cs329`.
+ * Create the directory location `cs329`.
  * Make sure to choose an interpreter whose version is 2.7.x.
 * Create a file `hello.py` by choosing `File -> New -> Python File`.
 * Copy and paste the following code to `hello.py`.
@@ -39,10 +39,10 @@ print sum(range(10))
 * Login to `lab0z.mathcs.emory.edu`.
 * Create a directory `quiz0` under the `cs329` directory.
 * Put `hello.py` under `cs329/quiz0`.
-* If you are using a Windows machine with no command-line tools:
+* If you are using a Windows machine with no 3rd-party shell:
  * Use an FTP client (e.g., [FileZilla](https://filezilla-project.org)) to upload your file.
 * If you are using a Mac/Linux machine:
- * Run the following command (replace `yourID` with your `mathcs` ID).
+ * Run the following command by replacing `yourID` with your `mathcs ID` (e.g., `choi`).
 ```
 rsync -avc hello.py yourID@lab0z.mathcs.emory.edu:~yourID/cs329/quiz0/
 ```
