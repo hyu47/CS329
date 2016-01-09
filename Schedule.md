@@ -1,6 +1,6 @@
 || Topics | Materials |
 |:---:|---|---|
-|01/11| [Introduction]() | [quiz 0](Getting-Started#quiz) |
+|01/11| [Introduction]() | [quiz 0](Getting-Started) |
 |01/13| [Regular Expressions]() |  |
 |01/18| Martin Luther King Day |  |
 |01/20| [Regular Expressions]() | [quiz 1](Quizzes#quiz-1) |
