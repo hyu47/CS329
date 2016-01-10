@@ -1,4 +1,4 @@
-|| Topics | Materials |
+|| Topics | Assignments |
 |:---:|---|---|
 |01/13| [Introduction]() | [quiz 0](Getting-Started) |
 |01/18| Martin Luther King Day |  |
