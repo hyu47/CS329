@@ -1,6 +1,6 @@
 || Topics | Assignments |
 |:---:|---|---|
-|01/13| [Introduction]() | [quiz 0](Getting-Started) |
+|01/13| [Introduction](http://www.mathcs.emory.edu/~choi/courses/cs329/slides/introduction.pdf) | [quiz 0](Getting-Started) |
 |01/18| Martin Luther King Day |  |
 |01/20| [Regular Expressions]() | [quiz 1](Quizzes#quiz-1) |
 |01/25| [Regular Expressions]() |  |
