@@ -9,10 +9,10 @@
 |02/03| [Phrase Structures]() | [quiz 3](Quizzes#quiz-3) |
 |02/08| [Phrase Structures]() |  |
 |02/10| [Dependency Structures]() | [quiz 4](Quizzes#quiz-4) |
-|02/15| [Dependency Structures]() | [hw 2](Homework-2) |
-|02/17| [Predicate Argument Structures]() | [quiz 5](Quizzes#quiz-5) |
-|02/22| [Predicate Argument Structures]() |  |
-|02/24| [Abstract Meaning Representation]() |  |
+|02/15| Guest Lecture |  |
+|02/17| [Dependency Structures]() | [hw 2](Homework-2) |
+|02/22| [Predicate Argument Structures]() | [quiz 5](Quizzes#quiz-5) |
+|02/24| [Predicate Argument Structures]() |  |
 |02/29| Review Session |  |
 |03/02| **Midterm Exam** |  |
 |03/07| Spring Break |  |
@@ -28,6 +28,6 @@
 |04/11| [Clustering Algorithms]() | [hw 4](Homework-4) |
 |04/13| [Computational Grammars]() | [quiz 10](Quizzes#quiz-10) |
 |04/18| [Computational Grammars]() |  |
-|04/25| Guest Lecture |  |
+|04/25| [Abstract Meaning Representation]() |  |
 |04/20| Review Session |  |
 |05/03| **Final Exam** | 3:00 - 5:30 PM |
