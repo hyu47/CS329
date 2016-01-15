@@ -12,7 +12,7 @@
  * Create the directory location `cs329`.
  * Make sure to choose an interpreter whose version is 2.7.x.
 * Create a file `quiz0.py` by choosing `File -> New -> Python File`.
-* Copy and paste the following code to `hello.py`.
+* Copy and paste the following code to `quiz0.py`.
 ```python
 # while loop
 s = 0
