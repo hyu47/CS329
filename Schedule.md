@@ -2,8 +2,8 @@
 |:---:|---|---|
 |01/13| [Introduction](http://www.mathcs.emory.edu/~choi/courses/cs329/slides/introduction.pdf) | [quiz 0](Getting-Started) |
 |01/18| Martin Luther King Day |  |
-|01/20| [Regular Expressions]() | [quiz 1](Quizzes#quiz-1) |
-|01/25| [Regular Expressions]() |  |
+|01/20| [Tokenization](http://www.mathcs.emory.edu/~choi/courses/cs329/slides/tokenization.pdf) | [quiz 1](Quizzes#quiz-1) |
+|01/25| [Lemmatization]() |  |
 |01/27| [N-gram Models]() | [quiz 2](Quizzes#quiz-2) |
 |02/01| [N-gram Models]() | [hw 1](Homework-1) |
 |02/03| [Phrase Structures]() | [quiz 3](Quizzes#quiz-3) |
