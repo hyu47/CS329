@@ -4,15 +4,15 @@
 |01/18| Martin Luther King Day |  |
 |01/20| [Tokenization](http://www.mathcs.emory.edu/~choi/courses/cs329/slides/tokenization.pdf) | [ex](../tree/master/src/tokenization), [quiz1](Quizzes#quiz-1) |
 |01/25| [Lemmatization](http://www.mathcs.emory.edu/~choi/courses/cs329/slides/lemmatization.pdf) | [ex](../tree/master/src/lemmatization) |
-|01/27| [Information extraction]() | [quiz 2](Quizzes#quiz-2) |
-|02/01| [N-gram Models]() | [hw 1](Homework-1) |
-|02/03| [Phrase Structures]() | [quiz 3](Quizzes#quiz-3) |
-|02/08| [Phrase Structures]() |  |
-|02/10| [Dependency Structures]() | [quiz 4](Quizzes#quiz-4) |
-|02/15| [Crowdsourcing] |  |
-|02/17| [Dependency Structures]() | [hw 2](Homework-2) |
-|02/22| [Predicate Argument Structures]() | [quiz 5](Quizzes#quiz-5) |
-|02/24| [Predicate Argument Structures]() |  |
+|01/27| [Knowledge Bases]() | [hw 1](Homework-1) |
+|02/01| [Phrase Structures]() | [quiz 2](Quizzes#quiz-2) |
+|02/03| [Phrase Structures]() |  |
+|02/08| [Dependency Structures]() |[quiz 3](Quizzes#quiz-3)  |
+|02/10| [Dependency Structures]() | [hw 2](Homework-2) |
+|02/15| [Crowdsourcing]() |  |
+|02/17| [Predicate Argument Structures]() | [quiz 4](Quizzes#quiz-4) |
+|02/22| [Predicate Argument Structures]() |  |
+|02/24| [Language Models]() | [quiz 5](Quizzes#quiz-5) |
 |02/29| Review Session |  |
 |03/02| **Midterm Exam** |  |
 |03/07| Spring Break |  |
