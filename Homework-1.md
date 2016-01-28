@@ -18,4 +18,4 @@ The goal of this task is to map information between multiple webpages. Your pyth
 ## Submission
 
 * Write a python program `hw1.py` that satisfies the above condition.
-* Put `hw1.py1 under the directory `cs329/hw1`.
+* Put `hw1.py` under the directory `cs329/hw1`.
