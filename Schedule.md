@@ -5,8 +5,8 @@
 |01/20| [Tokenization](http://www.mathcs.emory.edu/~choi/courses/cs329/slides/tokenization.pdf) | [ex](../tree/master/src/tokenization), [quiz1](Quizzes#quiz-1) |
 |01/25| [Lemmatization](http://www.mathcs.emory.edu/~choi/courses/cs329/slides/lemmatization.pdf) | [ex](../tree/master/src/lemmatization) |
 |01/27| [Regular Expressions](http://www.mathcs.emory.edu/~choi/courses/cs329/slides/regular_expressions.pdf) | [ex](../tree/master/src/regular_expressions), [hw1](Homework-1) |
-|02/01| [Phrase Structures]() | [ex](../tree/master/src/phrase_structures) |
-|02/03| [Phrase Structures]() | [quiz 2](Quizzes#quiz-2) |
+|02/01| [Phrase Structures](http://www.mathcs.emory.edu/~choi/courses/cs329/slides/phrase_structures.pdf) | [ex](../tree/master/src/phrase_structures) |
+|02/03| [Phrase Structures](http://www.mathcs.emory.edu/~choi/courses/cs329/slides/phrase_structures.pdf) | [quiz 2](Quizzes#quiz-2) |
 |02/08| [Dependency Structures]() |  |
 |02/10| [Dependency Structures]() | [quiz 3](Quizzes#quiz-3), [hw 2](Homework-2) |
 |02/15| [Crowdsourcing]() |  |
