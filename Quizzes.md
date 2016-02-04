@@ -10,7 +10,6 @@ Currently, our tokenizer cannot handle acronyms and `'s` when they are followed 
 Write phrase structure trees for the following two sentences in the Penn Treebank format.
 ```
 Emory University is a private research university in metropolitan Atlanta, located in the Druid Hills.
-Emory University's mission is to create, preserve, teach, and apply knowledge in the service of humanity.
 ```
 * Examples of phrase structure trees in the Penn Treebank can be found [here](../tree/master/src/phrase_structures/wsj_00.parse).
 * The Penn Treebank guidelines can be found [here](http://www.sfs.uni-tuebingen.de/~dm/07/autumn/795.10/ptb-annotation-guide/root.html).
