@@ -19,3 +19,8 @@ The goal of this task is to map information between multiple webpages. Your pyth
 
 * Write a python program `hw1.py` that satisfies the above condition.
 * Put `hw1.py` under the directory `cs329/hw1`.
+
+## Notes
+
+* The information needs to be in a _pretty_ format.
+* Some courses have their schedules spread out between lectures and labs (e.g., CS130R). Your program should handle this as well. 
