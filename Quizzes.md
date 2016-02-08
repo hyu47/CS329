@@ -14,5 +14,5 @@ Emory University is a private research university in metropolitan Atlanta, locat
 * Examples of phrase structure trees in the Penn Treebank can be found [here](../tree/master/src/phrase_structures/wsj_00.parse).
 * The Penn Treebank guidelines can be found [here](http://www.sfs.uni-tuebingen.de/~dm/07/autumn/795.10/ptb-annotation-guide/root.html).
 * Create a text file `quiz2.txt` containing two trees in the parenthetical notation and put it under the directory `cs329/quiz2`.
-
+* Stanford parser: [demo](http://nlp.stanford.edu:8080/parser).
 
