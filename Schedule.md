@@ -7,8 +7,8 @@
 |01/27| [Regular Expressions](http://www.mathcs.emory.edu/~choi/courses/cs329/slides/regular_expressions.pdf) | [ex](../tree/master/src/regular_expressions), [hw1](Homework-1) |
 |02/01| [Phrase Structures](http://www.mathcs.emory.edu/~choi/courses/cs329/slides/phrase_structures.pdf) | [ex](../tree/master/src/phrase_structures) |
 |02/03| [Phrase Structures](http://www.mathcs.emory.edu/~choi/courses/cs329/slides/phrase_structures.pdf) | [ex](../tree/master/src/phrase_structures), [quiz 2](Quizzes#quiz-2) |
-|02/08| [Dependency Structures]() |  |
-|02/10| [Dependency Structures]() | [quiz 3](Quizzes#quiz-3), [hw 2](Homework-2) |
+|02/08| [Dependency Structures](http://www.mathcs.emory.edu/~choi/courses/cs329/slides/dependency_structures.pdf) |  |
+|02/10| [Dependency Structures](http://www.mathcs.emory.edu/~choi/courses/cs329/slides/dependency_structures.pdf) | [quiz 3](Quizzes#quiz-3), [hw 2](Homework-2) |
 |02/15| [Crowdsourcing]() |  |
 |02/17| [Predicate Argument Structures]() | [quiz 4](Quizzes#quiz-4) |
 |02/22| [Predicate Argument Structures]() |  |
