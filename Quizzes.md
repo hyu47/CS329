@@ -18,19 +18,8 @@ Emory University is a private research university in metropolitan Atlanta, locat
 
 ## Quiz 3
 
-* Go to [microsoftazurepass.com](http://www.microsoftazurepass.com) and enter your promo code to open an Azure account ([instructions](http://www.microsoftazurepass.com/howto)).
-* Go to [portal.azure.com](https://portal.azure.com).
-* Create a new **virtual machine** (on the left menu):
- * Select **Ubuntu Server 14.04 LTS**.
- * Name the virtual machine **cs329**.
- * Use your Emory ID and password.
- * Create a default resource group.
- * Select the location **East US 2**.
- * Select the machine **DS3 Standard** (you may need to click "view all").
- * Wait for a while until the virtual machine is deployed.
- * If you click "Virtual Machines" on the left menu, you should see `cs329`.
- * Click `cs329` and get the public IP address (e.g, `104.209.xxx.xx`)
-* Login to your Azure account by typing the following command on the terminal (replace `yourID` with your Emory ID and `104.209.xxx.xx` with your public IP address).  If you are using a Windows machine, use [putty](http://www.chiark.greenend.org.uk/~sgtatham/putty/download.html) for a terminal.
+* Create a virtual machine at Azure: [guidelines](Microsoft-Azure).
+* Login to your Azure account by typing the following command on a terminal. If you don't have a terminal, try [putty](http://www.chiark.greenend.org.uk/~sgtatham/putty/download.html). Replace `yourID` with your Emory ID and `104.209.xxx.xx` with your public IP address.
 
   ```
   ssh yourID@104.209.xxx.xx
@@ -45,27 +34,33 @@ Emory University is a private research university in metropolitan Atlanta, locat
    sudo apt-get install oracle-java8-set-default
    ```
 
-* Check the Java version.
+* Enter the following commands:
 
    ```
-   java -version
-   ```
-
-* Enter the following command on the terminal:
-
-   ```
-   cat /proc/cpuinfo > cpuinfo.txt
+   cat /etc/*-release > info.txt
+   java -version 2>> info.txt
    ```
 
 * Login to your `mathcs` account:
 
    ```
-   ssh yourID@
+   ssh yourID@lab0z.mathcs.emory.edu
    ```
 
-* Logout your Azure account by entering the following command:
+* Create a directory `cs329/quiz3` by entering the following command:
 
    ```
-   exit
+   mkdir -p cs329/quiz3
    ```
 
+* Copy `info.txt` from your Azure account to your `mathcs` account:
+
+   ```
+   scp yourID@104.209.212.48:~yourID/info.txt cs329/quiz3/
+   ```   
+
+* Check if `info.txt` is copied to your `mathcs` account by running the following command:
+
+   ```
+   cat cs329/quiz3/info.txt
+   ```
