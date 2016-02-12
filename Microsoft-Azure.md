@@ -13,3 +13,9 @@
 * Wait for a while until the virtual machine is deployed.
 * If you click "Virtual Machines" on the left menu, you should see `cs329`.
 * Click `cs329` and get the public IP address (e.g, `104.209.xxx.xx`).
+
+## Web App
+
+* [Web App documentation](https://azure.microsoft.com/en-us/documentation/services/app-service/web/).
+* [Installing the Azure Toolkit for Eclipse](https://azure.microsoft.com/en-us/documentation/articles/azure-toolkit-for-eclipse-installation/).
+* [Creating a Hello World Application for Azure in Eclipse](https://azure.microsoft.com/en-us/documentation/articles/azure-toolkit-for-eclipse-creating-a-hello-world-application/).
