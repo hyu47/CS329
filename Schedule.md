@@ -9,10 +9,10 @@
 |02/03| [Phrase Structures](http://www.mathcs.emory.edu/~choi/courses/cs329/slides/phrase_structures.pdf) | [ex](../tree/master/src/phrase_structures), [quiz 2](Quizzes#quiz-2) |
 |02/08| [Dependency Structures](http://www.mathcs.emory.edu/~choi/courses/cs329/slides/dependency_structures.pdf) |  |
 |02/10| [Dependency Structures](http://www.mathcs.emory.edu/~choi/courses/cs329/slides/dependency_structures.pdf) | [quiz 3](Quizzes#quiz-3) |
-|02/15| [Crowdsourcing]() |  |
-|02/17| [Predicate Argument Structures]() | [quiz 4](Quizzes#quiz-4), [hw 2](Homework-2) |
-|02/22| [Predicate Argument Structures]() |  |
-|02/24| [Language Models]() | [quiz 5](Quizzes#quiz-5) |
+|02/15| [Crowdsourcing](http://www.mathcs.emory.edu/~choi/courses/cs329/slides/crowdsourcing.pdf) |  |
+|02/17| [Crowdsourcing](http://www.mathcs.emory.edu/~choi/courses/cs329/slides/crowdsourcing.pdf) |  |
+|02/22| [Predicate Argument Structures](http://www.mathcs.emory.edu/~choi/courses/cs329/slides/predicate_argument_structures.pdf) | [quiz 4](Quizzes#quiz-4), [hw 2](Homework-2) |
+|02/24| [Predicate Argument Structures](http://www.mathcs.emory.edu/~choi/courses/cs329/slides/predicate_argument_structures.pdf) | |
 |02/29| Review Session |  |
 |03/02| **Midterm Exam** |  |
 |03/07| Spring Break |  |
