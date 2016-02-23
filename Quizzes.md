@@ -64,3 +64,7 @@ Emory University is a private research university in metropolitan Atlanta, locat
    ```
    cat cs329/quiz3/info.txt
    ```
+
+## Quiz 4
+
+* What is the difference between syntax and semantics? What is the difference between dependency structures and predicate argument structures?  Create a file `quiz4.txt` under `cs329/quiz4` containing your answer.
