@@ -43,9 +43,13 @@ Your task is to summarize Wikipedia articles with respect to certain entities.
 
 ## Report
 
-You should write a report (1-3 pages) describing your approach. Please be thorough about explaining your approach.
+You should write a report (1-3 pages) including the followings:
+* Instruction of how to run your program.
+* Description of how you generated `hw2.txt` (e.g., manually stripped out noise, wrote a script, ran an existing tool).
+* Description of how you improved your program from the baseline (single word matching). You should explicitly describe what kind of new features you integrated and which examples work for your features.
+* Analysis of your program including weakness and strength.
 
 ## Submission
 
 Create a directory `cs329/hw2` under your `mathcs` account and put the followings:
-* `hw1.py`, `hw1.txt`, `hw1.txt.nlp`, your report in `pdf`.
+* `hw2.py`, `hw2.txt`, `hw2.txt.nlp`, your report in `pdf`.
