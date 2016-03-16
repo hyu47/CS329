@@ -72,7 +72,7 @@ Emory University is a private research university in metropolitan Atlanta, locat
 ## Quiz 5
 
 * Go to the [WordNet online demo](http://wordnetweb.princeton.edu/perl/webwn).
-* Given the paragraph below, answer the following questions using WordNet.  Create your own entailments if needed.
+* Given the paragraph below, answer the following questions using WordNet.  Create your own entailments if needed. Create a file `quiz5.txt` under `cs329/quiz5` containing your answer.
  * How many siblings do I have?
  * Do I get along with my step-sister?
  * Was my brother sleeping around 3am last night?
