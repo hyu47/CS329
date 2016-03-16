@@ -68,3 +68,22 @@ Emory University is a private research university in metropolitan Atlanta, locat
 ## Quiz 4
 
 * What is the difference between syntax and semantics? What is the difference between dependency structures and predicate argument structures?  Create a file `quiz4.txt` under `cs329/quiz4` containing your answer.
+
+## Quiz 5
+
+* Go to the [WordNet online demo](http://wordnetweb.princeton.edu/perl/webwn).
+* Given the paragraph below, answer the following questions using WordNet.  Create your own entailments if needed.
+ * How many siblings do I have?
+ * Do I get along with my step-sister?
+ * Was my brother sleeping around 3am last night?
+ * Is my sister usually depressed?
+ * Was my sister depressed yesterday?
+ * Did I ever know my sister’s birthday?
+ * Did my sister get a gift from me?
+
+```
+I have a big brother, a little sister, and a step-sister.
+I bond with my step-sister.
+My brother snored at 3am last night.
+My sister is usually cheerful but she was low yesterday because I forgot her birthday so I bought a gift for her.
+```
