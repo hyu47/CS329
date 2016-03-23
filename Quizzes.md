@@ -87,3 +87,7 @@ I bond with my step-sister.
 My brother snored at 3am last night.
 My sister is usually cheerful but she was low yesterday because I forgot her birthday so I bought a gift for her.
 ```
+
+## Quiz 6
+
+* Measures the cosine similarity between 10 documents created for [homework #2](Homework-2).
