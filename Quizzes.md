@@ -90,4 +90,4 @@ My sister is usually cheerful but she was low yesterday because I forgot her bir
 
 ## Quiz 6
 
-* Measures the cosine similarity between 10 documents created for [homework #2](Homework-2).
+* Measure the cosine similarities between 10 documents about the US presidents, generated for [homework #2](Homework-2).  Use a simple bag-of-word approach, where all terms get the value of `1` and [stop-words](https://github.com/emory-courses/cs329/blob/master/src/vector_space_models/stop-words_english_6_en.txt) are discarded.  For each US president, find the top 3 similar presidents and their similarity scores.
