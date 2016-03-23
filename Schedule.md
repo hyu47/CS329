@@ -18,8 +18,8 @@
 |03/07| Spring Break |  |
 |03/09| Spring Break |  |
 |03/14| Midterm Review |  |
-|03/16| [Ontology and Taxonomy]() | [quiz 5](Quizzes#quiz-5) |
-|03/21| [Ontology and Taxonomy]() |  |
+|03/16| [Ontology and Taxonomy](http://www.mathcs.emory.edu/~choi/courses/cs329/slides/ontology_and_taxonomy.pdf) | [quiz 5](Quizzes#quiz-5) |
+|03/21| [Ontology and Taxonomy](http://www.mathcs.emory.edu/~choi/courses/cs329/slides/ontology_and_taxonomy.pdf) |  |
 |03/23| [Distributional Semantics]() | [quiz 6](Quizzes#quiz-6) |
 |03/28| [Distributional Semantics]() | [hw 3](Homework-3) |
 |03/30| [Vector Space Models]() | [quiz 7](Quizzes#quiz-7) |
