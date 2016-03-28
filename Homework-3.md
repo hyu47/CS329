@@ -17,13 +17,21 @@ Your task is to implement a document classifier using the [k-nearest neighbors a
  * Bag-of-words using [stop-words](../blob/master/src/vector_space_models/stop-words_english_6_en.txt).
  * TF-IDF.
 * For each document in the development set, predict which genre it belongs to using the trained models. Experiment with both the [Euclidean distance](https://en.wikipedia.org/wiki/Euclidean_distance) and the [Cosine similarity](https://en.wikipedia.org/wiki/Cosine_similarity).
-* Submit your code `hw3.py` and prediction results:
+* Submit your code `hw3.py` and prediction output:
  * bow-euclidean.txt.
  * bow-euclidean-stopwords.txt.
  * bow-euclidean-tfidf.txt.
  * bow-cosine.txt.
  * bow-cosine-stopwords.txt.
  * bow-cosine-tfidf.txt.
+* Your prediction output must be in the following format. Use the first two letters to indicate your predicted genres:
+
+```
+AA_B000063D2P_001.txt AA
+AA_B000063D2P_002.txt AA
+...
+WB_2007-08-02T01_22_00_Sex_And_Politics_and_Screeds_and_Attitude.txt WB
+```
 
 ## Extra Credit
 
