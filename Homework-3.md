@@ -24,14 +24,14 @@ Your task is to implement a document classifier using the [k-nearest neighbors a
  * bow-cosine.txt.
  * bow-cosine-stopwords.txt.
  * bow-cosine-tfidf.txt.
-* Your prediction output must be in the following format. Use the first two letters to indicate your predicted genres:
+* Your prediction output must be in the following format. Each line consists of the filename, followed by a space, followed by the predicted genre. Use the first two letters to indicate your predicted genres:
 
-```
-AA_B000063D2P_001.txt AA
-AA_B000063D2P_002.txt AA
-...
-WB_2007-08-02T01_22_00_Sex_And_Politics_and_Screeds_and_Attitude.txt WB
-```
+   ```
+   AA_B000063D2P_001.txt AA
+   AA_B000063D2P_002.txt AA
+   ...
+   WB_2007-08-02T01_22_00_Sex_And_Politics_and_Screeds_and_Attitude.txt WB
+   ```
 
 ## Extra Credit
 
