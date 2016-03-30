@@ -20,8 +20,8 @@
 |03/14| Midterm Review |  |
 |03/16| [Ontology and Taxonomy](http://www.mathcs.emory.edu/~choi/courses/cs329/slides/ontology_and_taxonomy.pdf) | [quiz 5](Quizzes#quiz-5) |
 |03/21| [Ontology and Taxonomy](http://www.mathcs.emory.edu/~choi/courses/cs329/slides/ontology_and_taxonomy.pdf) |  |
-|03/23| [Vector Space Models]() |  |
-|03/28| [Vector Space Models]() | [hw 3](Homework-3) |
+|03/23| [Vector Space Models](http://www.mathcs.emory.edu/~choi/courses/cs329/slides/vector_space_models.pdf) |  |
+|03/28| [Vector Space Models](http://www.mathcs.emory.edu/~choi/courses/cs329/slides/vector_space_models.pdf) | [hw 3](Homework-3) |
 |03/30| [Distributional Semantics]() | [quiz 6](Quizzes#quiz-6) |
 |04/04| [Distributional Semantics]() |  |
 |04/06| [Clustering Algorithms]() | [quiz 8](Quizzes#quiz-8) |
