@@ -88,3 +88,6 @@ My brother snored at 3am last night.
 My sister is usually cheerful but she was low yesterday because I forgot her birthday so I bought a gift for her.
 ```
 
+## Quiz 6
+
+Write an abstract (up to 200 words) about your approach on homework 2. Try to signify your work over the baseline approach. We will select the top 12 work for presentations. Create a file `quiz6.txt` under `cs329/quiz6` containing your answer.
