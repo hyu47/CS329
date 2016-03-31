@@ -22,8 +22,8 @@
 |03/21| [Ontology and Taxonomy](http://www.mathcs.emory.edu/~choi/courses/cs329/slides/ontology_and_taxonomy.pdf) |  |
 |03/23| [Vector Space Models](http://www.mathcs.emory.edu/~choi/courses/cs329/slides/vector_space_models.pdf) |  |
 |03/28| [Vector Space Models](http://www.mathcs.emory.edu/~choi/courses/cs329/slides/vector_space_models.pdf) | [hw 3](Homework-3) |
-|03/30| [Distributional Semantics]() | [quiz 6](Quizzes#quiz-6) |
-|04/04| [Distributional Semantics]() |  |
+|03/30| [Machine Learning](http://www.mathcs.emory.edu/~choi/courses/cs329/slides/machine_learning.pdf) | [quiz 6](Quizzes#quiz-6) |
+|04/04| [HW2 Presentations]() |  |
 |04/06| [Clustering Algorithms]() | [quiz 8](Quizzes#quiz-8) |
 |04/11| [Clustering Algorithms]() | [hw 4](Homework-4) |
 |04/13| [Computational Grammars]() | [quiz 9](Quizzes#quiz-9) |
